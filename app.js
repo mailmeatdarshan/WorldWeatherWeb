@@ -199,5 +199,4 @@ async function fetchUserWeatherInfoByCity(city) {
             alert("Failed to fetch weather information. Please try again later.");
         }
     }
-}
-
+} 
